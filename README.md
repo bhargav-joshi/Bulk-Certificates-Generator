@@ -21,4 +21,8 @@
 </table>
 </div>
 
+## <h2>10 Lines of Code </h2>
+<img src="https://github.com/bhargav-joshi/Certificates-Generator/blob/master/carbon%20(2).png" width=800px>
+
+
 ## [See the Article Published on DEV](https://dev.to/bhargavjoshi/automatic-certificate-generator-in-python-10-lines-code-must-watch-automation-how-to-117o)
