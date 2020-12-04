@@ -26,3 +26,5 @@
 
 
 ## [See the Article Published on DEV](https://dev.to/bhargavjoshi/automatic-certificate-generator-in-python-10-lines-code-must-watch-automation-how-to-117o)
+
+## [See the Article Published on Medium](https://bhargavjoshi55.medium.com/make-an-automatic-certificate-generator-in-python-10-lines-code-automation-how-to-90f383ffb326)
